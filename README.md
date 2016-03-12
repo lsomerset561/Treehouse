@@ -1,1 +1,1 @@
-This repo is my first & is being completed as part of Treehouse's GitHub Basics course.  The project uploaded is also from Treehouse -- the Dice Roll project from the Objected Oriented JavaScript course.
+This repo is my first.  It's being completed as part of Treehouse's GitHub Basics course.  It contains a project from Treehouse -- Dice Roll from the Objected Oriented JavaScript course.
